@@ -1,14 +1,17 @@
 ---
 home: true
-heroImage: https://vuepress.vuejs.org/hero.png
-actionText: Get Started →
+heroText: Teach English
+heroImage: example-image.jpg
+actionText: Виж повече →
 actionLink: /lessons/
 features:
-- title: Simplicity First
+- title: Доказана ефективност
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
+- title: Огромна колекция от безплатни уроци
   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
+- title: Изключително качество
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: Developed by Atanas Yonkov || Powered by VuePress
 ---
+<!--# Последни уроци
+<LatestPosts /> -->

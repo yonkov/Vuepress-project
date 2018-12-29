@@ -1,21 +1,39 @@
 module.exports = {
 
-   title: 'VuePress',
+   title: 'Teach English',
 
-   description: 'Just playing around',
+   description: 'Уроци по английски за преподаватели',
 
    themeConfig: {
 
        nav: [
-         { text: 'Home', link: '/' },
-		 { text: 'About', link: '/about/' },
-         { text: 'Lessons', link: '/lessons/' }
+         { text: 'Начало', link: '/' },
+		 { text: 'За мен', link: '/about/' },
+         { text: 'Уроци', link: '/lessons/' },
+         { text: 'Категории', link: '/categories/' }
        ],
 	   
-	   sidebar: [
-      '/',
-	  ['/about/', 'About'],
-	  '/lessons/'
-    ]
+	  //  sidebar: [
+    //   ['/', 'Начало'],
+	  // ['/about/', 'За мен'],
+	  // ['/lessons/', 'Уроци']
+    // ]
+
+
+    sidebar: {
+      '/lessons/': [
+        '',     
+        'first-lesson',
+        'second-lesson' 
+        /* Add more lesson urls here*/
+      ],
+
+      '/': [
+        ['/', 'Начало'],
+	      ['/about/', 'За мен'],
+	      ['/lessons/', 'Уроци']
+      ]
+    }
+
    }
 }
