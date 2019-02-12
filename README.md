@@ -13,5 +13,5 @@ features:
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: Developed by Atanas Yonkov || Powered by VuePress
 ---
-<!--# Последни уроци
-<LatestPosts /> -->
+ Последни уроци
+<LatestPosts />
