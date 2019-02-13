@@ -3,7 +3,7 @@ backend:
   repo: yonkov/Vuepress-project
   branch: master
 media_folder: ".vuepress/public/"
-public_folder: "/dist/"
+public_folder: "/"
 display_url: https://teachenglish.netlify.com
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
