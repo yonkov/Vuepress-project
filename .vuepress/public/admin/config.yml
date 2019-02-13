@@ -2,8 +2,8 @@ backend:
   name: github
   repo: yonkov/Vuepress-project
   branch: master
-media_folder: ".vuepress/public/images"
-public_folder: ".vuepress/dist/"
+media_folder: ".vuepress/public/"
+public_folder: "/"
 display_url: https://teachenglish.netlify.com
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
