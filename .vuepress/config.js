@@ -13,19 +13,12 @@ module.exports = {
          { text: 'Категории', link: '/categories/' }
        ],
 	   
-	  //  sidebar: [
-    //   ['/', 'Начало'],
-	  // ['/about/', 'За мен'],
-	  // ['/lessons/', 'Уроци']
-    // ]
-
-
+	 /*  
     sidebar: {
       '/lessons/': [
         '',     
         'first-lesson',
         'second-lesson' 
-        /* Add more lesson urls here*/
       ],
 
       '/': [
@@ -33,7 +26,7 @@ module.exports = {
 	      ['/about/', 'За мен'],
 	      ['/lessons/', 'Уроци']
       ]
-    }
+   } */
 
    }
 }
