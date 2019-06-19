@@ -6,10 +6,9 @@ date: ''
 categories:
   - Ниво А1
 ---
-<h4>
-
-ПРЕЗЕНТАЦИЯ
-</h4>
+<p align="center">
+    **Презентация**
+</p>
 <p>
     **1. Свържете професиите с обясненията им.**
 </p>
@@ -64,51 +63,51 @@ categories:
     2. Чуйте текста. Попълнете празните места с липсващите думи
 </p>
 <p>
-    _Забележка: Няма наличен аудио файл. Учителят чете текста. (Целият текст е в отговорите)_
+    **_Забележка_**_: Няма наличен аудио файл. Учителят чете текста. (Целият текст е в отговорите)_
 </p>
 <p>
-    My name is Tony. My brother was a\_\_\_\_\_\_\_, and his\_\_\_\_\_\_\_\_\_\_\_\_ Ana was
-    a teacher. They were both \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at their jobs. My brother’s wife
-    loved to \_\_\_\_\_\_\_\_\_\_\_\_\_ at school. The children were \_\_\_\_\_\_\_\_\_\_\_\_\_\__ and
-    loved their teacher.
+ My name is Tony. My brother was a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, and his \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Ana was
+    a teacher. 
+
+They were both very \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at their jobs. My brother’s wife loved to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at school. The children were very \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and loved their teacher.
 </p>
 <p>
-    3. Отговорете на въпросите.
+    **3. Отговорете на въпросите.**
 </p>
 <p>
     1. What was Tony?
     <br/>
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 </p>
 <p>
     2. Was Tony’s brother a teacher?
     <br/>
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 </p>
 <p>
     3. Did Tony work in a big restaurant with very good food?
     <br/>
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 </p>
 <p>
     4. Were the children happy?
     <br/>
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 </p>
 <p>
-    4. Отбележете с T (true), и F (false).
+    **4. Отбележете с T (true), и F (false).**
 </p>
 <p>
-    1. Tony was a teacher and the children at school loved him. ___
+    1. Tony was a teacher and the children at school loved him. \_\_\_\_\_\__
 </p>
 <p>
-    2. Ana was a doctor and she hated her job. ___
+    2. Ana was a doctor and she hated her job. \_\_\_\_\_\__
 </p>
 <p>
-    3. The children were very happy. ___
+    3. The children were very happy. \_\_\_\_\_\__
 </p>
 <p align="center">
-    Граматика
+    **Граматика**
 </p>
 <p align="center">
     Припомнете си сегашно време на глагола съм „To Be“.
@@ -122,13 +121,13 @@ categories:
             <td>
                 <p>
                     <br/>
-                    PRESENT SIMPLE
+                    **PRESENT SIMPLE**
                 </p>
             </td>
             <td>
                 <p>
                     <br/>
-                    PAST SIMPLE
+                    **PAST SIMPLE**
                 </p>
             </td>
         </tr>
@@ -207,25 +206,25 @@ categories:
     </tbody>
 </table>
 <p align="center">
-    Практика
+    **Практика**
 </p>
 <p>
-    1. Попълнете празните места с миналата форма на глагола „to be“.
+    **1. Попълнете празните места с миналата форма на глагола „to be“.**
 </p>
 <p>
-    1. Ana \_\_\_\_\_\__ a teacher.
+    1. Ana \_\_\_\_\_\_\_\_\_\__ a teacher.
 </p>
 <p>
-    2. Tony \_\_\_\_\_\__ a waiter and he loved his job.
+    2. Tony \_\_\_\_\_\_\_\_\_\__  a waiter and he loved his job.
 </p>
 <p>
-    3. The restaurant \_\_\_\_\_\__ very big.
+    3. The restaurant \_\_\_\_\_\_\_\_\_\__  very big.
 </p>
 <p>
-    4. The children at school \_\_\_\_\_\_ very happy.
+    4. The children at school \_\_\_\_\_\_\_\_\_\__  very happy.
 </p>
 <p>
-    2. Поправете грешките в изреченията.
+    **2. Поправете грешките в изреченията.**
 </p>
 <p>
     <em>Example: I worked in a bank, so I was a <del>pilot.</del> (banker)</em>
@@ -234,13 +233,13 @@ categories:
     1. My sister was a driver, so she painted pictures. ( \_\_\_\_\_\_\_\_\_\__ )
 </p>
 <p>
-    2. Tony’s brother were a doctor, and he loved his job. ( \_\_\_\_\_\_\_\_\_\__ )
+    2. Tony’s brother were a doctor, and he loved his job. ( \_\_\_\_\_\_\_\_\_\__  )
 </p>
 <p>
-    3. Ana were a very good teacher and the children loved her. ( \_\_\_\_\_\_\_\_\_\__ )
+    3. Ana were a very good teacher and the children loved her. ( \_\_\_\_\_\_\_\_\_\__  )
 </p>
 <p>
-    3. Подчертайте правилната дума в скобите.
+    **3. Подчертайте правилната дума в скобите.**
 </p>
 <p>
     1. My mother teaches English, so she is a (teacher/doctor).
@@ -252,7 +251,7 @@ categories:
     3. David helps people when they are ill, so he is a (doctor/ teacher).
 </p>
 <p align="center">
-    По избор или домашна работа
+    **По избор или домашна работа**
 </p>
 <p>
     1. Попитайте 5ма съученици за професиите на техните родители, баби или
