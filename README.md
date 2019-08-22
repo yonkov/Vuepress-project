@@ -1,17 +1,17 @@
 ---
 home: true
-heroText: Teach English
+heroText: WordSana
 heroImage: example-image.jpg
-actionText: Виж повече →
+actionText: check it out →
 actionLink: /lessons/
 features:
-- title: Доказана ефективност
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Огромна колекция от безплатни уроци
+- title: WordSana Enemmän kuin sanakirja
+  details: Finnish - English Dictionary which includes compound words as well as examples of usage.
+- title: WordSana - More than a Dictionary
   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
 - title: Изключително качество
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: Developed by Atanas Yonkov || Powered by VuePress
 ---
- Последни уроци
+Latest Enttries
 <LatestPosts />
