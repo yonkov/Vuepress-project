@@ -11,7 +11,7 @@
         
         <p>{{ post.frontmatter.description }}</p>
 
-        <p><router-link :to="post.path">Виж целия урок</router-link></p>
+        <p><router-link :to="post.path">Read More...</router-link></p>
     </div>
 </div>
 </template>
