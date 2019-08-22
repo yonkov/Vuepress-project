@@ -5,4 +5,7 @@ date: ''
 categories:
   - nouns
 ---
-**aika** <a class="noun">n. </a>- time
+**AIKA** 
+<a class="noun">n. </a>- time
+
+<a class="adverb">adv. </a>- quite
