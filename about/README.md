@@ -8,4 +8,3 @@ A VuePress site is in fact a SPA powered by Vue , Vue Router and webpack . If yo
 
 ## За проекта
 
-## За мен
