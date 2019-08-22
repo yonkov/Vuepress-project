@@ -1,3 +1,3 @@
-### Всички категории
+### All categories
 
 <CategoryIndex />
