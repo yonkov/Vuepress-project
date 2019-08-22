@@ -5,4 +5,4 @@ date: ''
 categories:
   - nouns
 ---
-**aika** n. - time
+**aika** <a class="noun">n. </a>- time
