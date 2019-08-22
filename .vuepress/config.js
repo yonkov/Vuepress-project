@@ -2,7 +2,7 @@ module.exports = {
 
    title: 'WordSana',
 
-   description: 'More than a Dictionary - Enemmän kuin sanakirjaa',
+   description: 'More than a Dictionary Enemmän kuin sanakirjaa',
 
    themeConfig: {
 
@@ -22,7 +22,7 @@ module.exports = {
 
       '/': [
         ['/', 'Home'],
-	      ['/about/', About'],
+	      ['/about/', 'About'],
 	      ['/categories/', 'Categories']
       ]
    } 
