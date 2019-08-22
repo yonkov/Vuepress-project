@@ -1,16 +1,16 @@
 module.exports = {
 
-   title: 'Teach English',
+   title: 'WordSana',
 
-   description: 'Уроци по английски за преподаватели',
+   description: 'More than a Dictionary - Enemmän kuin sanakirjaa',
 
    themeConfig: {
 
        nav: [
-         { text: 'Начало', link: '/' },
-		 { text: 'За мен', link: '/about/' },
-         { text: 'Уроци', link: '/lessons/' },
-         { text: 'Категории', link: '/categories/' }
+         { text: 'Home', link: '/' },
+		 { text: 'About', link: '/about/' },
+         
+         { text: 'Categories', link: '/categories/' }
        ],
 	   
 	 /*  
@@ -22,9 +22,9 @@ module.exports = {
       ],
 
       '/': [
-        ['/', 'Начало'],
-	      ['/about/', 'За мен'],
-	      ['/lessons/', 'Уроци']
+        ['/', 'Home'],
+	      ['/about/', About'],
+	      ['/categories/', 'Categories']
       ]
    } */
 
