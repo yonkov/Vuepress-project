@@ -4,6 +4,6 @@ description: time
 image: ''
 date: ''
 categories:
-  - Ниво А1
+  - nouns
 ---
 **aika**  noun - time
