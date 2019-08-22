@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: WordSana
-heroImage: example-image.jpg
+heroImage: WordSanaLogo.jpg
 actionText: check it out →
 actionLink: /lessons/
 features:
