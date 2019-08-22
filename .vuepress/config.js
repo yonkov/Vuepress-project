@@ -9,11 +9,10 @@ module.exports = {
        nav: [
          { text: 'Home', link: '/' },
 		 { text: 'About', link: '/about/' },
-         
          { text: 'Categories', link: '/categories/' }
        ],
 	   
-	 /*  
+	  
     sidebar: {
       '/lessons/': [
         '',     
@@ -26,7 +25,7 @@ module.exports = {
 	      ['/about/', About'],
 	      ['/categories/', 'Categories']
       ]
-   } */
+   } 
 
    }
 }
