@@ -7,4 +7,4 @@ categories:
 ---
 Ilta (n.) - evening
 
-* iltasatuaika (ilta-satu-aika) bedtime story time (time for bedtime stories)
+* iltasatuaika (ilta-satu-[aika](https://word-sana.netlify.com/lessons/aika.html)) bedtime story time (time for bedtime stories)
