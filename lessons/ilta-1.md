@@ -3,7 +3,7 @@ title: ILTA
 description: 'ilta, noun'
 date: 2019-10-12T10:06:23.844Z
 categories:
-  - NOUNS
+  - nouns
 ---
 Ilta (n.) - evening
 
