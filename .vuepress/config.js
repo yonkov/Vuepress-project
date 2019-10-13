@@ -8,10 +8,7 @@ module.exports = {
        nav: [
          { text: 'Home', link: '/' },
 		 { text: 'About', link: '/about/' },
-         { text: 'Lessons', link: '/lessons/' }
-         { text: 'Начало', link: '/' },
-		 { text: 'За мен', link: '/about/' },
-         { text: 'Уроци', link: '/lessons/' },
+         { text: 'Lessons', link: '/lessons/' },
          { text: 'Категории', link: '/categories/' }
        ],
 
