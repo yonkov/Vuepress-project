@@ -24,20 +24,6 @@ module.exports = {
     // ]
 
 
-    sidebar: {
-      '/lessons/': [
-        '',     
-        'first-lesson',
-        'second-lesson' 
-        /* Add more lesson urls here*/
-      ],
-
-      '/': [
-        ['/', 'Начало'],
-	      ['/about/', 'За мен'],
-	      ['/lessons/', 'Уроци']
-      ]
-    }
 
    }
 }
