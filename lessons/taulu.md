@@ -5,4 +5,6 @@ date: 2019-10-12T10:17:52.421Z
 categories:
   - nouns
 ---
+<Categories />
+
 taulu (n.) table, board
