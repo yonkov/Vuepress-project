@@ -1,7 +1,6 @@
 module.exports = {
 
    title: 'WordSana',
-
    description: 'More than a Dictionary Enemmän kuin sanakirjaa',
 
    themeConfig: {
@@ -9,23 +8,39 @@ module.exports = {
        nav: [
          { text: 'Home', link: '/' },
 		 { text: 'About', link: '/about/' },
-         { text: 'Categories', link: '/categories/' }
+         { text: 'Lessons', link: '/lessons/' }
+         { text: 'Начало', link: '/' },
+		 { text: 'За мен', link: '/about/' },
+         { text: 'Уроци', link: '/lessons/' },
+         { text: 'Категории', link: '/categories/' }
        ],
-	   
-	  
+
+	   sidebar: [
+      '/',
+	  ['/about/', 'About'],
+	  '/lessons/'
+    ]
+	  //  sidebar: [
+    //   ['/', 'Начало'],
+	  // ['/about/', 'За мен'],
+	  // ['/lessons/', 'Уроци']
+    // ]
+
+
     sidebar: {
       '/lessons/': [
         '',     
         'first-lesson',
         'second-lesson' 
+        /* Add more lesson urls here*/
       ],
 
       '/': [
-        ['/', 'Home'],
-	      ['/about/', 'About'],
-	      ['/categories/', 'Categories']
+        ['/', 'Начало'],
+	      ['/about/', 'За мен'],
+	      ['/lessons/', 'Уроци']
       ]
-   } 
+    }
 
    }
 }
