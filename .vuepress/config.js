@@ -8,15 +8,8 @@ module.exports = {
        nav: [
          { text: 'Home', link: '/' },
 		 { text: 'About', link: '/about/' },
-         { text: 'Lessons', link: '/lessons/' },
-         { text: 'Категории', link: '/categories/' }
-       ],
-
-	   sidebar: [
-      '/',
-	  ['/about/', 'About'],
-	  '/lessons/'
-    ]
+         { text: 'Categories', link: '/categories/' }
+       ]
 	  //  sidebar: [
     //   ['/', 'Начало'],
 	  // ['/about/', 'За мен'],
