@@ -1,7 +1,7 @@
 module.exports = {
 
-   title: 'WordSana',
-   description: 'More than a Dictionary Enemmän kuin sanakirjaa',
+   title: 'Teach English',
+   description: 'Example website powered by Vuepress and Netlify CMS',
 
    themeConfig: {
 
