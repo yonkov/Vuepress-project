@@ -1,6 +1,6 @@
 ---
 title: Lesson 3
-description: example page
+description: lesson 3
 date: 2019-10-12T10:12:18.472Z
 categories:
   - lessons
