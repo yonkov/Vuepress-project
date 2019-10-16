@@ -1,7 +1,7 @@
 ---
 title: Lesson 2
 description: lesson 2
-image: /../../smirna.jpg
+image: ''
 date: 2019-10-12T10:06:23.844Z
 categories:
   - nouns
