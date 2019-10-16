@@ -1,6 +1,6 @@
 ---
 title: Lesson 1
-description: lesson 1
+description: Lesson in English language
 image: /../../image.jpg
 date: ''
 categories:
