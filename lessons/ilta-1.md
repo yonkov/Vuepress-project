@@ -1,12 +1,12 @@
 ---
-title: Lesson 2
-description: lesson 2
-image: ''
+title: My Second Awesome English Lesson
+description: Second lesson taught in English
+image: /../../example-image.jpg
 date: 2019-10-12T10:06:23.844Z
 categories:
   - lessons
 ---
-Do you know that in Netlify CMS you can use markdown instead of writing custom html? Try it, it is real fun! Here is a quick showcase on what markdown can do:
+In this English lesson we are going to learn about markdown! Do you know that in Netlify CMS you can use markdown instead of writing custom html? Try it, it is real fun! Here is a quick showcase on what markdown can do:
 
 ## Headers
 
