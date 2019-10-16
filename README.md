@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: WordSana
-heroImage: WordSanaLogo.jpg
+heroImage: example-image.jpg
 actionText: check it out →
 actionLink: /categories/
 footer: Developed by Atanas Yonkov || Powered by VuePress
