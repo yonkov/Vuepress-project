@@ -1,8 +1,8 @@
 ---
 home: true
-heroText: WordSana
+heroText: Teach English
 heroImage: example-image.jpg
-actionText: check it out →
+actionText: Read More →
 actionLink: /categories/
 footer: Developed by Atanas Yonkov || Powered by VuePress
 ---
