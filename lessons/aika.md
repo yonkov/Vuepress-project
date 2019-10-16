@@ -4,6 +4,6 @@ description: lesson 1
 image: /../../image.jpg
 date: ''
 categories:
-  - Lessons
+  - lessons
 ---
 This is the first English lesson powered by Vuepress and Netlify CMS.
