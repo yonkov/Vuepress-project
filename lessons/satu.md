@@ -1,9 +1,9 @@
 ---
-title: Lesson 3
+title: Ten Herbs You Should Start Collecting Now
 description: lesson 3
 image: /../../smirna.jpg
 date: 2019-10-12T10:12:18.472Z
 categories:
-  - hobbies
+  - lifestyle
 ---
-This lesson is yet to be written..
+This article is yet to be written..
